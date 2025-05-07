@@ -10,7 +10,7 @@ Project Flare converts images (.png files) to Minecraft maps (.dat files with ma
 3. Enter the number of the map
 4. Optionally select the preserve aspect ratio option
 5. Convert the image
-Dependencies 🔗
+# Dependencies 🔗
 Project Flare (.exe) has no dependencies. 
 Running the raw Python script requires following modules:
 * binascii
